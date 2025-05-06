@@ -30,14 +30,6 @@ The app uses **Expo (React Native)** for the frontend and connects to a backend 
 
 ---
 
-### 🗼️ Screenshots *(optional – add later)*
-
-You can add screenshots here using Markdown:
-
-```
-![Home Screen](screenshots/home.png)
-![Product Screen](screenshots/products.png)
-```
 
 ---
 
