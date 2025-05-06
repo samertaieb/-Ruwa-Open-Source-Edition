@@ -37,7 +37,7 @@ The app uses **Expo (React Native)** for the frontend and connects to a backend 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-org/ruwa-mobile-app.git
+git clone https://github.comsamertaieb/-Ruwa-Open-Source-Edition.git
 cd ruwa-mobile-app
 
 # 2. Install dependencies
